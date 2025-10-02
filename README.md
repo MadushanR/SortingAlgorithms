@@ -7,7 +7,6 @@ A comprehensive collection of classic and advanced sorting algorithms implemente
 - [Algorithms Included](#algorithms-included)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Benchmarking](#benchmarking)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -57,16 +56,6 @@ Example (Python):
 ```sh
 cd python
 python quick_sort.py
-```
-
-## Benchmarking
-
-The repository may include benchmarking scripts to compare the performance of different sorting algorithms on various datasets.
-
-Example (Python):
-
-```sh
-python benchmark.py
 ```
 
 ## Contributing
