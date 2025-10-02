@@ -55,7 +55,7 @@ Example (Python):
 
 ```sh
 cd python
-python quick_sort.py
+python main.py
 ```
 
 ## Contributing
