@@ -6,7 +6,6 @@ A comprehensive collection of classic and advanced sorting algorithms implemente
 
 - [Algorithms Included](#algorithms-included)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -47,16 +46,6 @@ cd SortingAlgorithms
 
 If the repository contains language-specific dependencies, refer to the corresponding directory for installation instructions.
 
-## Usage
-
-Navigate to the directory of your preferred programming language and run the implementation files directly. Sample usage and test cases are included with each algorithm.
-
-Example (Python):
-
-```sh
-cd python
-python main.py
-```
 
 ## Contributing
 
